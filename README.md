@@ -14,17 +14,19 @@ In this project description, we will cover:
 * Getting Started: guidance for how to begin working
 
 ## Project Overview
-
-For this project, you will use multiple linear regression modeling to analyze house sales in a northwestern county.
+This project seeks to offer concise and actionable insights to a prominent real estate firm in King County, Washington, by analyzing data to enhance the accuracy of property appraisals. Our analysis will focus on the relationship between strategic home renovations and their effect on property values, enabling the agency to advise homeowners effectively. By exploring various factors that influence home prices in the region, we aim to provide the firm with the tools necessary to guide their clients through informed decisions in the real estate market, whether they are buying, selling, or renovating properties.
 
 ### Business Problem
+The real estate agency needs to advice homeowners on how home renovations can increase property value and by what extent. However, there is absence of a clear, systematic method to provide informed recommendations, hindering homeowners from maximizing their return on investment when selling their properties. There is need for a structured approach to assess and communicate the impact of home renovations on property values, enabling the agency to guide clients effectively.
 
-It is up to you to define a stakeholder and business problem appropriate to this dataset.
-
-If you are struggling to define a stakeholder, we recommend you complete a project for a real estate agency that helps homeowners buy and/or sell homes. A business problem you could focus on for this stakeholder is the need to provide advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount.
+### Business Understanding
+what is the business problen from this statement in one paragraph:We'll be looking to answer the following questions to help us better understand the layout of the housing industry.
+Pricing & Valuation:
+1.	Analyse the impact of renovations on price - Compare the sale prices of renovated houses with those not renovated houses to assess the return on investment.
+2.	 To assess if the number of bedrooms in a house, along with its renovation status (renovated or not renovated), influences its price.
+3.Are there any other features that effect the price significantly?
 
 ### The Data
-
 This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this assignment's GitHub repository. The description of the column names can be found in `column_names.md` in the same folder. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions about what the data means.
 
 It is up to you to decide what data from this dataset to use and how to use it. If you are feeling overwhelmed or behind, we recommend you **ignore** some or all of the following features:
