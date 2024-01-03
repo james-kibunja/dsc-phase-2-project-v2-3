@@ -2,7 +2,10 @@
 
 Another module down - you're almost half way there!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/images/imagereader.jpg)
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/images/imagereader.png)
+
+
+![average_domestic_rating](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/tree/main/images/imagereader.png)
 
 All that remains in Phase 2 is to put your newfound data science skills to use with a large project!
 
