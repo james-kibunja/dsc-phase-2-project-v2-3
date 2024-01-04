@@ -36,8 +36,10 @@ After digging deeper we found that degree of condition matters with the best giv
 
 ### model 3.
 ![Model 3](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_model3.jpg)
+Multiple Linear Regression Visualization
 ![residual bathrooms](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg_mod.jpg)
 ![residual bedrooms](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg2.jpg)
+Checking for equal variance (homoscedasticity), assumption
 ![homoscedastacity graphs ](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/Homosc.jpg)
 
  
