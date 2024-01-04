@@ -18,8 +18,10 @@ This project uses the King County House Sales dataset, which can be found [King 
 
 ### Data Understanding and Analysis 
 ### Checking for relationship between price and independent variables
-[the relationship between price and all other features](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/price_vs_all.png)
+[the relationship between price and all other features](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/price_vs_all.jpg)
 ### Simple Linear Model
+[Model 1](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/simple_model.jpg)
+[residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/base_line_living.jpg)
 ### model 1.
 ### Multiple Linear Regression Model
 
