@@ -18,9 +18,12 @@ This project uses the King County House Sales dataset, which can be found [King 
 
 ### Data Understanding and Analysis 
 ### Checking for relationship between price and independent variables
+we can see that sqft_ living, grade, sqft_above have the highest correlation with the price.  
 ![the relationship between price and all other features](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/price_vs_all.jpg)
 ### Simple Linear Model
+Now that we had sqft_living, it seemed to be a good predictor because it had the most linear relationship with price. We adopted it as our basis. For that, we created a simple model based on this.Our model is statistically significant overall, and explains about 49.3% of the variance in price.
 ![Model 1](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/simple_model.jpg)
+
 ![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/base_line_living.jpg)
 ### Multiple Linear Regression Mode
 ### model 1.
