@@ -17,10 +17,11 @@ The real estate agency aims to provide homeowners with strategic advice on optim
 This project uses the King County House Sales dataset, which can be found [King County Dataset](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/data/kc_house_data.csv) with the description of the column names [columns description](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/data/column_names.md)
 
 ### Data Understanding and Analysis 
-#### Checking for relationship between price and independent variables
+### Checking for relationship between price and independent variables
 [the relationship between price and all other features](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/price_vs_all.png)
-#### Simple Linear Model
-#### model 1.
-#### Multiple Linear Regression Model
-#### model 2. 
+### Simple Linear Model
+### model 1.
+### Multiple Linear Regression Model
+
+### model 2. 
 
