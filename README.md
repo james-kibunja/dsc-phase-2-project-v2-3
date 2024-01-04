@@ -24,7 +24,9 @@ we can see that sqft_ living, grade, sqft_above have the highest correlation wit
 ### Model 1
 Now that we had sqft_living, it seemed to be a good predictor because it had the most linear relationship with price. We adopted it as our basis. For that, we created a simple model based on this.Our model is statistically significant overall, and explains about 49.3% of the variance in price.
 ![Model 1](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/simple_model.jpg)
+
 Visualizing the simple linear model. We seae that 
+
 ![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/base_line_living.jpg)
 ### Multiple Linear Regression Mode
 ### model 2.
