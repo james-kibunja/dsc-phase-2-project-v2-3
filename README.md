@@ -1,49 +1,20 @@
-# Phase 2 Project Description
-
-Another module down - you're almost half way there!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/images/imagereader.png)
-
-
-![average_domestic_rating](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/tree/main/images/imagereader.png)
+# King County Houses Data Analysis 
 
 ![King_County_houses](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/imagereader.jpg)
 
-All that remains in Phase 2 is to put your newfound data science skills to use with a large project!
 
-In this project description, we will cover:
-
-* Project Overview: the project goal, audience, and dataset
-* Deliverables: the specific items you are required to produce for this project
-* Grading: how your project will be scored
-* Getting Started: guidance for how to begin working
 
 ## Project Overview
 
-For this project, you will use multiple linear regression modeling to analyze house sales in a northwestern county.
+This project aims to provide actionable insights to a leading real estate firm in King County, Washington. We focus on refining property appraisals by analyzing key attributes—number of bedrooms, bathrooms, and housing condition. Our goal is to understand how strategic home renovations influence property values, arming the agency with tools to guide homeowners effectively. Through a comprehensive analysis of factors affecting home prices in the region, we aim to equip the firm with valuable resources for informed decision-making in the dynamic real estate market, covering aspects like buying, selling, and renovations. This project establishes a systematic methodology to optimize clients' return on investment amid the complexities of the local real estate landscape.
 
 ### Business Problem
 
-It is up to you to define a stakeholder and business problem appropriate to this dataset.
-
-If you are struggling to define a stakeholder, we recommend you complete a project for a real estate agency that helps homeowners buy and/or sell homes. A business problem you could focus on for this stakeholder is the need to provide advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount.
+The real estate agency aims to provide homeowners with strategic advice on optimizing property values based on key features such as the number of bedrooms, bathrooms, and housing condition. Currently, there is a lack of a systematic approach to offer informed recommendations, limiting homeowners' ability to enhance their return on investment during property sales. The agency seeks to develop a structured methodology to assess and communicate how specific features, particularly the number of bedrooms, bathrooms, and housing condition, influence property prices. This approach will empower the agency to guide clients effectively in making renovations that align with market demands, thereby maximizing the overall value of their properties.
 
 ### The Data
 
-This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this assignment's GitHub repository. The description of the column names can be found in `column_names.md` in the same folder. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions about what the data means.
-
-It is up to you to decide what data from this dataset to use and how to use it. If you are feeling overwhelmed or behind, we recommend you **ignore** some or all of the following features:
-
-* `date`
-* `view`
-* `sqft_above`
-* `sqft_basement`
-* `yr_renovated`
-* `zipcode`
-* `lat`
-* `long`
-* `sqft_living15`
-* `sqft_lot15`
+This project uses the King County House Sales dataset, which can be found [dataset](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/tree/main/data) 
 
 ### Key Points
 
