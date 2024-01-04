@@ -28,14 +28,14 @@ Visualizing the simple linear model. We seae that
 ![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/base_line_living.jpg)
 ### Multiple Linear Regression Mode
 ### model 2.
-![Model 2](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/Regression model 2.jpg)
+![Model 2](images/Regression model 2.jpg)
 from the graph below we compare the relationship between price and the selected variables 
 ![comparing price and selected variables](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/house_vs_interest.jpg)
 After digging deeper we found that degree of condition matters with the best giving high value on prices 
 ![condition against price](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/House_condition.jpg)
 
 ### model 3.
-![model_3](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_mode3.jpg)
+![Model 3](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_model3.jpg)
 ![residual bathrooms](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg_mod.jpg)
 ![residual bedrooms](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg2.jpg)
 ![homoscedastacity graphs ](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/Homosc.jpg)
