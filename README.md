@@ -14,7 +14,7 @@ The real estate agency aims to provide homeowners with strategic advice on optim
 
 ### The Data
 
-This project uses the King County House Sales dataset, which can be found [dataset](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/tree/main/data) 
+This project uses the King County House Sales dataset, which can be found [data schema]([https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/tree/main/data](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/data/kc_house_data.csv)) and columns are 
 
 ### Key Points
 
