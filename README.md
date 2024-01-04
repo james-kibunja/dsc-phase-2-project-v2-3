@@ -7,6 +7,8 @@ Another module down - you're almost half way there!
 
 ![average_domestic_rating](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/tree/main/images/imagereader.png)
 
+![King_County_houses](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/imagereader.jpg)
+
 All that remains in Phase 2 is to put your newfound data science skills to use with a large project!
 
 In this project description, we will cover:
