@@ -33,6 +33,7 @@ Visualizing the simple linear model. We seae that
 ![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/House_condition.jpg)
 
 ### model 3.
+![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg_mod3.jpg)
 ![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg_mod.jpg)
 ![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg_mod.jpg)
 ![residual graphs](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/log_reg2.jpg)
