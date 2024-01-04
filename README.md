@@ -14,8 +14,7 @@ The real estate agency aims to provide homeowners with strategic advice on optim
 
 ### The Data
 
-This project uses the King County House Sales dataset, which can be found [data schema]([https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/tree/main/data](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/data/kc_house_data.csv)) and columns are 
-
+This project uses the King County House Sales dataset, which can be found [data schema](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/data/kc_house_data.csv)) with the description of the column names [columns]()
 ### Key Points
 
 * **Your goal in regression modeling is to yield findings to support relevant recommendations. Those findings should include a metric describing overall model performance as well as at least two regression model coefficients.** As you explore the data and refine your stakeholder and business problem definitions, make sure you are also thinking about how a linear regression model adds value to your analysis. "The assignment was to use linear regression" is not an acceptable answer! You can also use additional statistical techniques other than linear regression, so long as you clearly explain why you are using each technique.
