@@ -52,5 +52,13 @@ Checking for equal variance (homoscedasticity) assumption
 
 ![homoscedastacity graphs ](https://github.com/JohnNkakuyia/dsc-phase-2-project-v2-3/blob/main/images/Homosc.jpg)
 
+ ## Conclusion 
  
+ For each increase of 1% in sqft_living, we see an associated increase of about 0.84% in price, therefore we conclude square feet living has an a positive effect on price
+
+The coefficient for "bedrooms" suggests a negative relationship with the price,indicating that as the number of bedrooms increases, price tends to decrease.For each additional bedroom, holding all other variables constant, the log-transformed price decreases by approximately 0.158 units .
+
+The coefficient for "bathrooms" suggests a positive relationship with the price,indicating that as the number of bathrooms increases, price tends to increase. as per the log model,For each additional bathroom, holding all other variables constant, the price increases by approximately 0.0352 units
+
+on the other hands house condition should be given first priority as in the context of our analysis house condition correlation holds the strongest connection compared to the other features of interest. And the best fetching high value
 
